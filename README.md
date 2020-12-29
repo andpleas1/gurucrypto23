@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" src="https://media.giphy.com/media/xjJZyEP9BycC0EIkwD/giphy.gif" style = "width: -webkit-fill-available;"/></h1>
+<h1 align="center"><img align="center" src="https://media.giphy.com/media/rlUy2kgxiNm7b2l0lG/giphy.gif" style = "width: -webkit-fill-available;"/></h1>
 
 <h1 align="center">Hi 👋, I'm GuruJustin</h1>
 <h3 align="center">A young, passionate, ambitious developer!</h3>
